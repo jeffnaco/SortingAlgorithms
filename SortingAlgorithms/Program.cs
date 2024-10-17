@@ -22,9 +22,6 @@ namespace SortingAlgorithms
 
             mainmenu.RunForever();
             Console.ReadKey();
-
-
-
         }
 
         public static void PerformBubble()
