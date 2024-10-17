@@ -1,0 +1,7 @@
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe.config
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.exe
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\bin\Debug\SortingAlgorithms.pdb
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.AssemblyReference.cache
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.exe
+C:\Users\jeffg\OneDrive\Desktop\ADVANCED PROGRAMMING\WEEK 2\SortingAlgorithms\SortingAlgorithms\obj\Debug\SortingAlgorithms.pdb
